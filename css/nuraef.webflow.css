@@ -88,7 +88,7 @@
 
 body {
   color: var(--black);
-  font-family: Font, Arial, sans-serif;
+  font-family: Gilroy;
   font-size: 16px;
   font-weight: 500;
   line-height: 120%;
@@ -97,7 +97,7 @@ body {
 h1 {
   margin-top: 20px;
   margin-bottom: 30px;
-  font-family: Font, Arial, sans-serif;
+  font-family: Gilroy;
   font-size: 38px;
   font-weight: 700;
   line-height: 44px;
@@ -106,7 +106,7 @@ h1 {
 h2 {
   margin-top: 20px;
   margin-bottom: 20px;
-  font-family: Font, Arial, sans-serif;
+  font-family: Gilroy;
   font-size: 21px;
   font-weight: 700;
   line-height: 120%;
@@ -114,7 +114,7 @@ h2 {
 
 p {
   margin-bottom: 10px;
-  font-family: Font, Arial, sans-serif;
+  font-family: Gilroy;
   line-height: 130%;
 }
 
@@ -208,7 +208,7 @@ strong {
 }
 
 .header-contact-text {
-  font-family: Font, Arial, sans-serif;
+  font-family: Gilroy;
   font-size: 15px;
   font-weight: 500;
 }
@@ -223,7 +223,7 @@ strong {
   text-transform: uppercase;
   margin-top: 0;
   margin-bottom: 20px;
-  font-family: Font, Arial, sans-serif;
+  font-family: Gilroy;
   font-size: 75px;
   font-weight: 700;
   line-height: 100%;
@@ -232,7 +232,7 @@ strong {
 .first-subhead {
   color: var(--white);
   margin-bottom: 80px;
-  font-family: Font, Arial, sans-serif;
+  font-family: Gilroy;
   font-size: 30px;
   line-height: 120%;
 }
@@ -267,7 +267,7 @@ strong {
 .bullet-head {
   color: var(--black);
   margin-bottom: 20px;
-  font-family: Font, Arial, sans-serif;
+  font-family: Gilroy;
   font-size: 21px;
   font-weight: 700;
   line-height: 100%;
@@ -275,7 +275,7 @@ strong {
 
 .bullet-text {
   color: var(--black);
-  font-family: Font, Arial, sans-serif;
+  font-family: Gilroy;
   font-size: 15px;
   font-weight: 500;
   line-height: 120%;
@@ -305,7 +305,7 @@ strong {
   margin-top: 0;
   margin-bottom: 0;
   padding-bottom: 3px;
-  font-family: Head, Times New Roman, sans-serif;
+  font-family: Gilroy;
   font-size: 45px;
   font-weight: 400;
   line-height: 120%;
@@ -315,7 +315,7 @@ strong {
   color: var(--white);
   text-transform: none;
   margin-bottom: 0;
-  font-family: Font, Arial, sans-serif;
+  font-family: Gilroy;
   font-size: 27px;
   font-weight: 700;
 }
@@ -385,7 +385,7 @@ strong {
   color: var(--white);
   text-align: center;
   margin-top: 80px;
-  font-family: Font, Arial, sans-serif;
+  font-family: Gilroy;
   font-size: 21px;
   font-weight: 700;
   line-height: 110%;
@@ -400,7 +400,7 @@ strong {
   border-bottom: 1px solid var(--white);
   color: var(--white);
   margin-bottom: 30px;
-  font-family: Font, Arial, sans-serif;
+  font-family: Gilroy;
   font-size: 13px;
   font-weight: 500;
   text-decoration: none;
@@ -428,7 +428,7 @@ strong {
 
 .subhead {
   margin-top: 10px;
-  font-family: Font, Arial, sans-serif;
+  font-family: Gilroy;
   font-size: 23px;
   line-height: 120%;
 }
@@ -443,7 +443,7 @@ strong {
   justify-content: center;
   align-items: center;
   padding: 12px 50px 10px;
-  font-family: Font, Arial, sans-serif;
+  font-family: Gilroy;
   font-size: 13px;
   font-weight: 900;
   transition: all .3s;
@@ -501,7 +501,7 @@ strong {
   color: var(--black);
   padding-top: 3px;
   padding-left: 30px;
-  font-family: Font, Arial, sans-serif;
+  font-family: Gilroy;
   font-size: 21px;
   font-weight: 700;
   line-height: 120%;
@@ -568,7 +568,7 @@ strong {
   color: var(--black);
   margin-bottom: 0;
   padding-top: 3px;
-  font-family: Font, Arial, sans-serif;
+  font-family: Gilroy;
   font-size: 15px;
   font-weight: 700;
   line-height: 120%;
@@ -580,7 +580,7 @@ strong {
   text-align: right;
   border-radius: 10px;
   padding: 7px 15px 5px;
-  font-family: Font, Arial, sans-serif;
+  font-family: Gilroy;
   font-size: 15px;
   font-weight: 300;
   line-height: 19px;
@@ -615,7 +615,7 @@ strong {
 .type-name {
   margin-top: 0;
   margin-bottom: 10px;
-  font-family: Font, Arial, sans-serif;
+  font-family: Gilroy;
   font-size: 45px;
   font-weight: 500;
   line-height: 100%;
@@ -645,7 +645,7 @@ strong {
 .type-desc-text {
   margin-bottom: 0;
   padding-left: 4px;
-  font-family: Font, Arial, sans-serif;
+  font-family: Gilroy;
   font-size: 14px;
   line-height: 110%;
 }
@@ -712,7 +712,7 @@ strong {
 .color-name {
   text-align: center;
   margin-top: 5px;
-  font-family: Font, Arial, sans-serif;
+  font-family: Gilroy;
   font-size: 15px;
   font-weight: 700;
 }
@@ -736,7 +736,7 @@ strong {
   border: 1px solid #ddd9cd;
   border-radius: 10px;
   margin-bottom: 0;
-  font-family: Font, Arial, sans-serif;
+  font-family: Gilroy;
   font-size: 15px;
   font-weight: 500;
   transition: all .3s;
@@ -764,7 +764,7 @@ strong {
   padding-top: 12px;
   padding-left: 20px;
   padding-right: 20px;
-  font-family: Font, Arial, sans-serif;
+  font-family: Gilroy;
   font-size: 13px;
   font-weight: 900;
   transition: all .3s;
@@ -813,7 +813,7 @@ strong {
 
 .checkbox-label {
   margin-bottom: 0;
-  font-family: Font, Arial, sans-serif;
+  font-family: Gilroy;
   font-size: 12px;
   line-height: 110%;
 }
@@ -878,7 +878,7 @@ strong {
 }
 
 .portfolio-desc-head {
-  font-family: Font, Arial, sans-serif;
+  font-family: Gilroy;
   font-size: 23px;
   font-weight: 700;
   line-height: 120%;
@@ -894,7 +894,7 @@ strong {
   justify-content: center;
   align-items: center;
   padding: 8px 15px 7px 25px;
-  font-family: Font, Arial, sans-serif;
+  font-family: Gilroy;
   font-size: 15px;
   font-weight: 700;
   line-height: 100%;
@@ -930,14 +930,14 @@ strong {
 }
 
 .insta-text {
-  font-family: Font, Arial, sans-serif;
+  font-family: Gilroy;
   font-size: 21px;
   font-weight: 500;
   line-height: 120%;
 }
 
 .insta-name {
-  font-family: Font, Arial, sans-serif;
+  font-family: Gilroy;
   font-size: 19px;
   font-weight: 700;
 }
@@ -964,7 +964,7 @@ strong {
 .plus-num {
   color: var(--yellow);
   margin-bottom: 10px;
-  font-family: Font, Arial, sans-serif;
+  font-family: Gilroy;
   font-size: 50px;
   font-weight: 900;
   line-height: 100%;
@@ -972,7 +972,7 @@ strong {
 
 .plus-head {
   margin-bottom: 20px;
-  font-family: Font, Arial, sans-serif;
+  font-family: Gilroy;
   font-size: 21px;
   font-weight: 700;
   line-height: 120%;
@@ -980,7 +980,7 @@ strong {
 
 .plus-text {
   margin-bottom: 0;
-  font-family: Font, Arial, sans-serif;
+  font-family: Gilroy;
   font-size: 15px;
   line-height: 120%;
 }
@@ -1005,7 +1005,7 @@ strong {
   justify-content: space-between;
   align-items: center;
   padding: 20px 30px;
-  font-family: Font, Arial, sans-serif;
+  font-family: Gilroy;
   display: flex;
 }
 
@@ -1041,7 +1041,7 @@ strong {
   margin-top: 10px;
   margin-bottom: 0;
   padding: 20px 30px 5px;
-  font-family: Font, Arial, sans-serif;
+  font-family: Gilroy;
   font-size: 15px;
   line-height: 130%;
 }
@@ -1081,7 +1081,7 @@ strong {
 }
 
 .footer-link-text {
-  font-family: Font, Arial, sans-serif;
+  font-family: Gilroy;
   font-size: 23px;
   font-weight: 700;
   line-height: 120%;
@@ -1094,7 +1094,7 @@ strong {
 
 .footer-data {
   margin-top: 20px;
-  font-family: Font, Arial, sans-serif;
+  font-family: Gilroy;
   font-size: 15px;
   font-weight: 700;
 }
@@ -1141,7 +1141,7 @@ strong {
   padding-top: 12px;
   padding-left: 20px;
   padding-right: 20px;
-  font-family: Font, Arial, sans-serif;
+  font-family: Gilroy;
   font-size: 13px;
   font-weight: 900;
   transition: all .3s;
@@ -1157,7 +1157,7 @@ strong {
 .quiz-subhead {
   margin-top: 40px;
   margin-bottom: 20px;
-  font-family: Font, Arial, sans-serif;
+  font-family: Gilroy;
   font-size: 17px;
   font-weight: 500;
   line-height: 120%;
@@ -1168,7 +1168,7 @@ strong {
   padding-top: 5px;
   padding-bottom: 5px;
   padding-left: 10px;
-  font-family: Font, Arial, sans-serif;
+  font-family: Gilroy;
   font-size: 17px;
   font-weight: 700;
 }
@@ -1220,7 +1220,7 @@ strong {
 
 .popup-head-text {
   margin-bottom: 5px;
-  font-family: Font, Arial, sans-serif;
+  font-family: Gilroy;
   font-size: 25px;
   font-weight: 700;
   line-height: 110%;
@@ -1247,7 +1247,7 @@ strong {
 .popup-text {
   color: #333;
   margin-bottom: 30px;
-  font-family: Font, Arial, sans-serif;
+  font-family: Gilroy;
   font-size: 17px;
   font-weight: 500;
   line-height: 19px;

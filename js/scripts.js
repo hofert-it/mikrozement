@@ -73,12 +73,12 @@ $('.first-button').click(function() {
 });
 
 // Timer Popup Open Func
-function popupTimerOpen() {
-        $('.popup-consult').css({'display' : 'flex'});
-        $('.popup-consult').animate({'opacity' : '1'}, 300);
-}
+// function popupTimerOpen() {
+//         $('.popup-consult').css({'display' : 'flex'});
+//         $('.popup-consult').animate({'opacity' : '1'}, 300);
+// }
 
-setTimeout(popupTimerOpen, 60000);
+// setTimeout(popupTimerOpen, 60000);
 
 const type_slider_mono_p = new Swiper('#mono_p', {
   loop: true,
